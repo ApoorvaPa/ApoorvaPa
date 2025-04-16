@@ -53,8 +53,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apoorvap&show_icons=true&theme=radical" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvap&layout=compact&theme=radical" width="47%">
+![Apoorva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AutiMatebyASH&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AutiMatebyASH&layout=compact&theme=radical)
+
 </p>
 
 ---
