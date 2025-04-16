@@ -16,46 +16,48 @@
 
 ---
 
-### ⚒️ Tech Stack
+### ⚙️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apachespark)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 🧪 Featured Projects
+## 📊 GitHub Stats
 
-- 🔬 **Multimodal AI Pipeline for Autism Support**  
-  Emotion-aware glasses using FER, SER, and a fine-tuned LLM for contextual communication.
-
-- 🧩 **AI Risk Classifier**  
-  LangChain + explainable models for financial fraud risk scoring and compliance reporting.
-
-- 🦠 **ByteFence — AI Antivirus (In Progress)**  
-  Combining static + dynamic + GNN-based malware detection with sandbox behavior logs.
+![](https://github-readme-stats.vercel.app/api?username=ApoorvaPa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvaPa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ApoorvaPa&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-### 📈 GitHub Stats
+## 🌱 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AutiMatebyASH&show_icons=true&theme=radical" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AutiMatebyASH&layout=compact&theme=radical" width="47%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApoorvaPa&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&area=true" width="100%" alt="activity graph" />
 </p>
 
 ---
 
-### 🔄 Contribution Graph
+## 📦 Profile Summary Cards
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AutiMatebyASH&theme=react-dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ApoorvaPa&theme=tokyonight&hide_border=true"  width="64%" alt="profile-details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ApoorvaPa&theme=tokyonight"  width="31%" alt="github-stats"/>
+</p>
 
 ---
+
+## 🧭 Visitor Count
+
+[![](https://visitcount.itsvg.in/api?id=ApoorvaPa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
 
 ### 📬 Let's Connect
 
