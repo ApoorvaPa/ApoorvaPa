@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Final-year B.Tech (AI/ML) @ VIT, graduating July 2025
+- 🎓 Final-year B.Tech in CS with specialisation in AI/ML @ VIT, graduating soon
 - 🔍 Exploring the edges of AI — from LLMs to Graph Neural Networks
 - 💡 Built smart glasses that *sense emotion* and *talk back* (not kidding)
 - 🛡️ Currently building an AI-powered antivirus — because the world deserves better defenses
