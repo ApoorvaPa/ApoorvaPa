@@ -61,8 +61,8 @@
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)  
-[![Mail](https://img.shields.io/badge/-Say%20Hi%20on%20Email!-red?style=flat)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/apoorvaparashar09/)  
+[![Mail](https://img.shields.io/badge/-Say%20Hi%20on%20Email!-red?style=flat)](mailto:apoorvaparashar09@email.com)
 
 ---
 
