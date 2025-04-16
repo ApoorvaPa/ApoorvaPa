@@ -74,11 +74,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ApoorvaPa&theme=tokyonight"  width="31%" alt="github-stats"/>
 </p>
 
----
-
-## 🧭 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=ApoorvaPa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
