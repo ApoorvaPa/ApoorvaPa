@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Apoorva 👋</h1>
 
 <p align="center">
-  <i>AI Engineer in the making | Builder of thoughtful systems | Obsessed with Generative AI & Multimodal Intelligence</i>
+  <i>AI Engineer | Builder of thoughtful systems | Obsessed with Generative AI & Multimodal Intelligence</i>
 </p>
 
 ---
