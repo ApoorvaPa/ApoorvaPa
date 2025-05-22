@@ -11,7 +11,7 @@
 - 🎓 Final-year B.Tech in CS with spl in AI/ML @ VIT, graduating soon!
 - 🧠 Exploring the edges of AI — from LLMs to GNNs and agentic pipelines  
 - 👓 Built emotion-aware smart glasses for autism support  
-- 🛡️ Currently developing ByteFence — an AI-powered antivirus with behavior-based analysis
+- 🛡️ Just built ByteFence — an AI-powered antivirus with behavior-based analysis
 - ✨ I believe in building tech that actually helps people (in the right ways)
 
 ---
